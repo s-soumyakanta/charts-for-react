@@ -6,8 +6,8 @@ import Navabar from "@/components/Navabar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Charts React",
-  description: "Charts in react! by https://s-soumyakanta.com",
+  title: "Charts For React",
+  description: "Charts For react! by https://s-soumyakanta.com",
   robots: {
     index: true,
     follow: true,
